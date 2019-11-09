@@ -7,10 +7,7 @@ import random
 import sys
 
 def BetaBarrel(calc):
-	'''
-	This function trains or generates FASTA protein sequences.
-	This script is based on the nietzsche LSTM example by Keras.
-	'''
+	
 
     #Desired beta barrel sequence length
 	sequenceLength = 150  
