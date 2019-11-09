@@ -28,7 +28,7 @@ python3 train betabarrel
 ```
 
 # Generate Beta Barrel Sequences 
-To generate new beta barrel FASTA sequences, run the following command"
+To generate new beta barrel FASTA sequences, run the following command:
 ```
 python3 generate beta barrel 
 ```
