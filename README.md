@@ -40,4 +40,4 @@ To generate new beta barrel FASTA sequences, run the following command:
 ```
 python3 generate beta barrel 
 ```
-To determine whether the generated sequences may be plausible, do a BLAST run to align with database protein sequences. 
+To determine whether the generated sequences may be plausible, do a BLAST and PSIPRED run to align with database protein sequences. 
